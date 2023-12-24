@@ -1,4 +1,5 @@
 #include <vector>
+#include <iostream>
 
 // Declare functions
 void display_board(std::vector<std::string> board);
